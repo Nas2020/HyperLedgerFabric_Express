@@ -3,9 +3,10 @@ BCDV1012 - Lab: ExpressJS REST API for HyperLedger Fabric (fabcar example) [as p
 
 ## Procedure
 
-Clone this repository to 'fabcar' folder 'fabric-smples'(https://github.com/hyperledger/fabric-samples)
-`npm install`
-`node app.js` 
+Clone this repository to 'fabcar' folder 'fabric-smples'(https://github.com/hyperledger/fabric-samples) 
+
+* `npm install`
+* `node app.js` 
 
 To Query all the cars: http://[lpocalhost]:3000/api/queryallcars 
 To Add new car: http://localhost:3000/api/addcar (static for testing purpose only) 
